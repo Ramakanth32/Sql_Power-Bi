@@ -1,6 +1,6 @@
---create database project
+create database project
 use project
-select*from sales
+select*from data
 select*from Additional
 --combining additional table and data table and 
 --creating new_table as sales
